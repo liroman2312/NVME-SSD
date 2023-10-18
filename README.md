@@ -6,25 +6,16 @@
 
 M.2 Type M NVMe SSD, a powerful 25Ggb - 1TB SSD is equipped with PCIe 2.0 technology
 
-•	Processor: CIMX7D3EVK10SD i.MX 7Dual Cortex A7 CPU, boasting a clock frequency of 933 MHz.
+• Processor: CIMX7D3EVK10SD i.MX 7Dual Cortex A7 CPU, boasting a clock frequency of 933 MHz.
 
 • Dedicated memory:  1GB of DDR3L RAM, ensuring snappy performance and efficient memory management.
 
-•	Dedicated storage: With a 512MB flash component, for quick boot times and responsive storage handling.
+• Dedicated storage: With a 512MB flash component, for quick boot times and responsive storage handling.
 
 • 24MHz crystal oscillator ensures precise timing and synchronization.
 
 • Storage: It includes a spacious  256GB - 1TB NAND FLASH storage.
    
-•	Connectivity: The SOM features a versatile M.2 slot for expandable storage or connectivity options. 
-  dual Wi-Fi channels (2.4GHz and 5GHz), Bluetooth, and HDMI with touch control for seamless user interaction.
-  
-•	Expansion: It offers two PCIe outputs for high-speed peripheral connections, along with dual Ethernet management ports and two additional Ethernet ports for comprehensive networking capabilities. 
-  Two CAN bus outputs and an XSPI interface enhance communication versatility.
-
-• Security and data integrity are paramount, and this SSD is equipped with authentication ICs, utilizing ECDH/ECC encryption for enhanced protection of your valuable data. 
-  Additionally, a 10KB EEPROM adds versatility, allowing for easy and secure data storage.
-
 
 ## PCB SPECS:
 
@@ -34,7 +25,7 @@ M.2 Type M NVMe SSD, a powerful 25Ggb - 1TB SSD is equipped with PCIe 2.0 techno
 
 •	Thickness: The board has a thickness of 0.8 mm.
 
-•	Via Holes: The PCB incorporates 2 via holes specifically designed for board-to-board connections.
+•	Via Holes: The PCB incorporates 2 via holes specifically designed for  strong board-to-board connections.
 
 **scematic and STEP fiel attcaeh for view 
 
